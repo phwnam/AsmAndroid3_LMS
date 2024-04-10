@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "660dfab14707f6317a0d8008"
+  },
+  "description": "Táo không chỉ ngon mà còn rất giàu chất dinh dưỡng, bao gồm vitamin C, chất xơ và chất chống oxy hóa. Chúng thường được ăn tươi, sử dụng trong các món tráng miệng, làm thành nước ép, hoặc dùng làm nguyên liệu cho nhiều món ăn khác nhau như mứt táo, bánh táo và khoai tây nướng với táo. Táo cũng được sử dụng trong y học dân dụng với nhiều lợi ích sức khỏe như giảm cân, cải thiện hệ tiêu hóa và hỗ trợ hệ thống miễn dịch.",
+  "price": "5000",
+  "cateID": "660dfaf54707f6317a0d800a",
+  "image": "https://png.pngtree.com/png-clipart/20230414/original/pngtree-red-apple-fruit-realistic-transparent-png-image_9057112.png",
+  "name": "Táo đỏ Mỹ",
+  "quantity": "20",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "66123ce51677f53e405cf60b"
+  },
+  "name": "Dưa hấu Canada",
+  "quantity": 20,
+  "price": 12000,
+  "status": 1,
+  "image": "https://www.shutterstock.com/image-photo/juicy-watermelon-sliced-isolated-on-600nw-1651445977.jpg",
+  "description": "Dưa hấu là một loại trái cây có vỏ màu xanh đậm hoặc xanh nhạt, thường có hình tròn hoặc hình cầu. Thịt dưa hấu mềm, mọng nước và có vị ngọt tự nhiên. Thường được ăn tươi hoặc làm thành nước ép, dưa hấu cũng chứa nhiều nước và dưỡng chất có lợi cho sức khỏe.",
+  "createdAt": {
+    "$date": "2024-04-07T06:27:49.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T06:41:50.967Z"
+  },
+  "__v": 0,
+  "id_category": {
+    "$oid": "660dfaf54707f6317a0d800a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6613a4504cad7636354b8053"
+  },
+  "name": "Dưa vàng Úc",
+  "quantity": 20,
+  "price": 16000,
+  "status": 1,
+  "image": "https://langnghethanhhoa.vn/wp-content/uploads/2023/03/pf1icglf7e1585535673.jpg",
+  "description": "Dưa vàng thường được gọi là dưa lưới (tên khoa học: Cucumis melo var. reticulatus) là một loại trái cây thuộc họ Cucurbitaceae. Đây là một loại dưa phổ biến với vỏ ngoài màu vàng hoặc cam và có một mạng lưới mịn trên bề mặt. Dưa vàng thường có thịt mềm, ngọt và mọng nước. Loại này được trồng rộng rãi trong nhiều khu vực trên thế giới và thường được ăn tươi hoặc sử dụng trong các món tráng miệng, salad, hoặc làm thành nước ép.",
+  "createdAt": {
+    "$date": "2024-04-07T06:27:49.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T06:41:50.967Z"
+  },
+  "__v": 0,
+  "id_category": {
+    "$oid": "660dfaf54707f6317a0d800a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6613a4744cad7636354b8054"
+  },
+  "description": "Thịt của chuối thường mềm, ngọt và giàu chất dinh dưỡng như kali, vitamin C, vitamin B6 và chất xơ. Chuối thường được ăn tươi, làm thành nước ép, hoặc sử dụng trong nhiều món ăn và món tráng miệng khác nhau. Đặc biệt, chuối cũng được sử dụng rộng rãi trong việc làm nguyên liệu cho các món bánh và đồ uống. Ngoài ra, chuối cũng có nhiều ứng dụng trong y học dân dụng và công nghiệp.",
+  "price": "10000",
+  "cateID": "660dfaf54707f6317a0d800a",
+  "image": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2021/10/14/chuoi1-16341869574602070184903.jpg",
+  "name": "Chuối Philipin",
+  "quantity": "20",
+  "status": "1"
+}]
